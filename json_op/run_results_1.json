@@ -1,0 +1,116 @@
+{
+ "selection1": [
+  {
+   "name": "Home",
+   "url": "https://health.hawaii.gov/"
+  },
+  {
+   "name": "About DOH",
+   "url": "https://health.hawaii.gov/about/"
+  },
+  {
+   "name": "Office of the Director",
+   "url": "https://health.hawaii.gov/about/office-of-the-director/"
+  },
+  {
+   "name": "Program Directory",
+   "url": "https://health.hawaii.gov/about/program-directory/"
+  },
+  {
+   "name": "Mission Statement",
+   "url": "https://health.hawaii.gov/about/mission-statement/"
+  },
+  {
+   "name": "Strategic Plan",
+   "url": "https://health.hawaii.gov/opppd/"
+  },
+  {
+   "name": "Rules & Regulations",
+   "url": "https://health.hawaii.gov/opppd/administrative-rules/"
+  },
+  {
+   "name": "Neighbor Island Offices",
+   "url": "https://health.hawaii.gov/neighbor-island-offices/"
+  },
+  {
+   "name": "Hawaii",
+   "url": "https://health.hawaii.gov/big-island/"
+  },
+  {
+   "name": "Maui",
+   "url": "https://health.hawaii.gov/maui/"
+  },
+  {
+   "name": "Kauai",
+   "url": "https://health.hawaii.gov/kauai/"
+  },
+  {
+   "name": "Family Guidance Centers",
+   "url": "https://health.hawaii.gov/camhd/home/family-guidance-centers/"
+  },
+  {
+   "name": "News",
+   "url": "https://health.hawaii.gov/news/"
+  },
+  {
+   "name": "COVID-19 News",
+   "url": "https://health.hawaii.gov/news/covid-19-updates/"
+  },
+  {
+   "name": "News Releases",
+   "url": "https://health.hawaii.gov/news/"
+  },
+  {
+   "name": "Ola Lokahi",
+   "url": "https://health.hawaii.gov/news/OLa-lokahi/"
+  },
+  {
+   "name": "Health Topics",
+   "url": "https://health.hawaii.gov/about/health-topics/"
+  },
+  {
+   "name": "Employment",
+   "url": "https://health.hawaii.gov/employment/"
+  },
+  {
+   "name": "Contact Us",
+   "url": "https://health.hawaii.gov/about/contact/"
+  },
+  {
+   "name": "COVID-19 State of Hawai‘i Portal",
+   "url": "https://hawaiicovid19.com/",
+   "selection2": "COVID-19 State of Hawai‘i Portal",
+   "selection2_url": "https://hawaiicovid19.com/"
+  },
+  {
+   "name": "COVID-19 Data",
+   "url": "https://health.hawaii.gov/coronavirusdisease2019",
+   "selection2": "COVID-19 Data",
+   "selection2_url": "https://health.hawaii.gov/coronavirusdisease2019"
+  },
+  {
+   "name": "Red Hill Updates",
+   "url": "https://health.hawaii.gov/about/red-hill-water-information/",
+   "selection2": "Red Hill Updates",
+   "selection2_url": "https://health.hawaii.gov/about/red-hill-water-information/"
+  },
+  {
+   "name": "Get Vital Records of Birth, Marriage & More",
+   "url": "https://health.hawaii.gov/vitalrecords/",
+   "selection2": "Get Vital Records of Birth, Marriage & More",
+   "selection2_url": "https://health.hawaii.gov/vitalrecords/"
+  },
+  {
+   "name": "Women, Infants, and Children Program",
+   "url": "https://health.hawaii.gov/wic/",
+   "selection2": "Women, Infants, and Children Program",
+   "selection2_url": "https://health.hawaii.gov/wic/"
+  },
+  {
+   "name": "Medical Cannabis",
+   "url": "https://health.hawaii.gov/medicalcannabis/",
+   "selection2": "Medical Cannabis",
+   "selection2_url": "https://health.hawaii.gov/medicalcannabis/"
+  }
+ ]
+}
